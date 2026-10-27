@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.idea/
+.DS_Store
+03_task_manager/tasks_result.json
